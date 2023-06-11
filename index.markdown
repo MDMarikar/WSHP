@@ -5,13 +5,7 @@ layout: default
 ---
 
 
-#previous unsorted list
-#{% for item in site.my_collection %}
-#- [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
-#{% endfor %}
 
-
-code
 {% assign sorted_items = site.my_collection | sort:"title" %}
 {% for item in sorted_items %}
 - [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
