@@ -35,12 +35,12 @@ collections:
     permalink: /:collection/:name/
           
       
-defaults:
-  - scope:
-      path: "" 
-      type: ""
-    values:
-      layout: "default"
+#defaults:
+#  - scope:
+#      path: "" 
+#      type: ""
+#    values:
+#      layout: "default"
 
 # Build settings
 theme: minima
