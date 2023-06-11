@@ -4,6 +4,7 @@
 layout: default
 ---
 
+{% include google-search.html %}
 
 
 {% assign sorted_items = site.my_collection | sort:"title" %}
