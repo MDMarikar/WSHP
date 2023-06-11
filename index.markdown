@@ -9,5 +9,5 @@ title: My Collection
 # My Collection
 
 {% for item in site.my_collection %}
-- [{{ item.title }}]({{ item.url }})
+- [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
 {% endfor %}
