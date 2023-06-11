@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 collections:
   my_collection:
     output: true
+    layout: default
     permalink: /:collection/:name/
 
 # Build settings
