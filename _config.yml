@@ -38,7 +38,7 @@ collections:
   - scope:
       path: "_my_collection"
     values:
-      layout: "default"
+      layout: "base"
 
 # Build settings
 theme: minima
