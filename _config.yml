@@ -36,7 +36,7 @@ collections:
     
   defaults:
   - scope:
-      path: "_my_collection"
+      path: "my_collection"
     values:
       layout: "post"
 
