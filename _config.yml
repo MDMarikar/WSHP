@@ -38,7 +38,7 @@ collections:
 defaults:
   - scope:
       path: "" 
-      type: "my_collection"
+      type: ""
     values:
       layout: "default"
 
