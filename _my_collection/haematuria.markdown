@@ -1,5 +1,6 @@
 ---
 title: Microscopic haematuria and proteinurea
+layout: default
 ---
 
 # Incidental microscopic harmaturia
