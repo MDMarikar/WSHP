@@ -33,6 +33,12 @@ collections:
     output: true
     layout: default
     permalink: /:collection/:name/
+    
+  defaults:
+  - scope:
+      path: "_my_collection"
+    values:
+      layout: "post"
 
 # Build settings
 theme: minima
