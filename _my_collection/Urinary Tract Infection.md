@@ -1,3 +1,8 @@
+---
+title: Abdominal Pain
+layout: default
+---
+
 # Urinary Tract Infection
 Febrile infants below 3 months should always be discussed with paediatricians.
 
