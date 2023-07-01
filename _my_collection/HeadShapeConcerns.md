@@ -37,8 +37,7 @@ If you are clinically uncertain about a diagnosis, contact the craniofacial unit
 # Why Time Matters
 Early diagnosis and intervention - before 6 months of age ideally -  is crucial to avoid limitations on surgical options as the child ages and skull bones become less male .  
 
-# References 
+# References
 
 [Recognising a child with isolated craniosynostosis](https://www.bmj.com/content/381/bmj-2022-073906)
 
-[BC Children’s guide positional plagiocephaly](http://www.bcchildrens.ca/neurosciences-site/Documents/BCCH034PlagiocephalyCliniciansGuideWeb1.pdf)
