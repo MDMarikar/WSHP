@@ -35,7 +35,7 @@ If you are clinically uncertain about a diagnosis, contact the craniofacial unit
 
 
 # Why Time Matters
-Early diagnosis and intervention - before 6 months of age ideally -  is crucial to avoid limitations on surgical options as the child ages and skull bones become less male .  
+Early diagnosis and intervention - before 6 months of age ideally -  is crucial to avoid limitations on surgical options as the child ages and skull bones become less malleable
 
 # References
 
