@@ -25,7 +25,7 @@ History should include timing and progression of abnormal head shape, symptoms o
 Physical examination should assess head shape (front, above and side), head circumference, anterior fontanelle, any ridges or bulges, and associated dysmorphic features or anomalies.
 		
 # What to Do If Craniosynostosis is Suspected 
-If craniosynostosis is suspected and no acute concerns refer directly to a specialist  craniofacial unit - in our case Oxford Craniofacial Unit.  Details on referral advice and guidance contacts available here  https://www.ouh.nhs.uk/craniofacial/
+If craniosynostosis is suspected and no acute concerns refer directly to a specialist  craniofacial unit - in our case Oxford Craniofacial Unit.  Details on referral advice and guidance contacts available here  ![Oxfor Craniofacial Team](https://www.ouh.nhs.uk/craniofacial/)
 
 If you are clinically uncertain about a diagnosis, contact the craniofacial unit, sharing patient photographs, to discuss the case.
 
