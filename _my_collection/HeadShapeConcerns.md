@@ -10,9 +10,9 @@ Concerns around abnormal head are not uncommon.  The majority will have normal v
 # Differentiating Craniosynostosis from Normal Variants 
 Look at the overall head shape from above and position of ears relative to each other.  See figures below - in positional plagiocephaly the ear and forehead on the ipsilateral side to the flattening will be anteriorly placed
 
-![](images/IMG_0081.jpeg)
+![](/images/IMG_0081.jpeg)
 
-![](images/IMG_0082.jpeg)
+![](/images/IMG_0082.jpeg)
 
 (Source: BC Children’s hospital guide)
 
@@ -35,6 +35,6 @@ Early diagnosis and intervention - before 6 months of age ideally -  is crucial 
 
 # References 
 
-![Recognising a child with isolated craniosynostosis](https://www.bmj.com/content/381/bmj-2022-073906)
+[Recognising a child with isolated craniosynostosis](https://www.bmj.com/content/381/bmj-2022-073906)
 
-![BC Children’s guide positional plagiocephaly](http://www.bcchildrens.ca/neurosciences-site/Documents/BCCH034PlagiocephalyCliniciansGuideWeb1.pdf)
+[BC Children’s guide positional plagiocephaly](http://www.bcchildrens.ca/neurosciences-site/Documents/BCCH034PlagiocephalyCliniciansGuideWeb1.pdf)
