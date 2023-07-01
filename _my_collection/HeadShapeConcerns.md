@@ -10,17 +10,17 @@ Concerns around abnormal head are not uncommon.  The majority will have normal v
 # Differentiating Craniosynostosis from Normal Variants 
 Look at the overall head shape from above and position of ears relative to each other.  In positional plagiocephaly the ear and forehead on the ipsilateral side to the flattening will be anteriorly placed when viewed from the top.  See figures below for assessment from top and back of head.
 
-##view from top
+## Top
 ![]({{site.baseurl}}/images/IMG_0081.jpeg)
 
-##view from back
+## Back
 ![]({{site.baseurl}}/images/IMG_0082.jpeg)
 
 (Source: BC Children’s hospital guide)
 
-##Metopic cranisynostosis
+## Metopic cranisynostosis
 Metopic craniosynostosis differs from a simple metopic ridge by absence of forehead flattening, creating a triangular shape.
-		![]({{site.baseurl}}/images/test.jpeg)
+		![]({{site.baseurl}}/images/test.jpg)
 (Source: European Reference Network Cranio)
 
 # Key Points on Clinical Assessment
