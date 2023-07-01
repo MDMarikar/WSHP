@@ -18,8 +18,10 @@ Look at the overall head shape from above and position of ears relative to each 
 
 (Source: BC Children’s hospital guide)
 
+##Metopic cranisynostosis
 Metopic craniosynostosis differs from a simple metopic ridge by absence of forehead flattening, creating a triangular shape.
-		
+		![]({{site.baseurl}}/images/test.jpeg)
+(Source: European Reference Network Cranio)
 
 # Key Points on Clinical Assessment
 History should include timing and progression of abnormal head shape, symptoms of raised intracranial pressure, antenatal, neonatal and family history
