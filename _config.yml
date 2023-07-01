@@ -21,7 +21,7 @@
 title: GP Paediatric guidance
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Brief advice on paediatric problems relevant to general practice written/curated by Dr Lakshman
+  Brief advice on paediatric problems relevant to general practice written/curated by Dr Lakshman and Dr Marikar
 baseurl: "/WSHP" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
