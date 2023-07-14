@@ -1,5 +1,5 @@
 ---
-title: Breast enlargement before puberty in infants and young children
+title: Breast enlargement before puberty
 layout: default
 ---
 
