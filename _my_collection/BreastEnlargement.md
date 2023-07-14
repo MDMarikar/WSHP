@@ -1,5 +1,5 @@
 ---
-title: Breast enlargement before puberty
+title: Breast enlargement before puberty in infants and young children
 layout: default
 ---
 
@@ -18,7 +18,7 @@ Premature thelarche describes breast development in girls occurring typically (b
 
 - Take a thorough history (including family history),  perform physical examination for breast tissue and other signs of puberty (pubic hair growth, external genitalia), and plot growth chart parameters.
 - Neonatal breast enlargement and premature thelarche without atypical features do not typically need investigation.  In the case of premature thelarche breast size may wax and wane over time.
-- Monitor the patient to identify any evidence of pubertal progression or accelerated growth
+- Monitor the patient (eg review in 6 months) to identify any evidence of pubertal progression or accelerated growth
 
 # When to refer
 - if the breast enlargement is accompanied by other concerning symptoms such as evidence of pubertal progression or accelerated growth
