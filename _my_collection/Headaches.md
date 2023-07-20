@@ -27,7 +27,7 @@ layout: default
 # Resources
 
 1. [Headache Diary](https://bpna.org.uk/audit/Headache%20diary.PDF) - from British Paediatric Neurological Association
-2. [Decision Support Tool](https://www.headsmart.org.uk/clinical/decision-support-tool/?cache=clear) - for guidance on managing both acute and chronic headaches and making appropriate referrals.
+2. [Decision Support Tool](https://www.headsmart.org.uk/clinical/decision-support-tool/?cache=clear) - based on Royal College of Paediatrics endorsed guidance for Brain Tumour Assessment
 3. [NICE Clinical guideline: Headache in children and young people: diagnosis and management](https://www.nice.org.uk/guidance/cg150)
 
 
