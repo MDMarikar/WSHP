@@ -15,7 +15,7 @@ layout: default
 - Physical exam: measure and plot weight, height, blood pressure; check for potential dental, eye, ENT pathologies, including sinusitis, and perform a neurological assessment.
 - Advise a visit to an optometrist to rule out visual problems potentially causing/contributing to the headaches.
 - Provide lifestyle advice, including screen time and sleep hygiene, for managing headaches. Stress the importance of maintaining adequate fluid intake.
-- Encourage the use of a headache diary to identify triggers.
+- Encourage the use of a headache diary to characterise the headache and identify triggers.
 - For migraines, refer to NICE guidelines for management and consider psychological therapies when required.
 
 # When To Refer
@@ -26,7 +26,7 @@ layout: default
 
 # Resources
 
-1. [Headache Diary](https://bpna.org.uk/audit/Headache%20diary.PDF) - for identifying triggers.
+1. [Headache Diary](https://bpna.org.uk/audit/Headache%20diary.PDF) - from British Paediatric Neurological Association
 2. [Decision Support Tool](https://www.headsmart.org.uk/clinical/decision-support-tool/?cache=clear) - for guidance on managing both acute and chronic headaches and making appropriate referrals.
 3. [NICE Clinical guideline: Headache in children and young people: diagnosis and management](https://www.nice.org.uk/guidance/cg150)
 
