@@ -28,7 +28,8 @@ layout: default
 
 1. [Headache Diary](https://bpna.org.uk/audit/Headache%20diary.PDF) - for identifying triggers.
 2. [Decision Support Tool](https://www.headsmart.org.uk/clinical/decision-support-tool/?cache=clear) - for guidance on managing both acute and chronic headaches and making appropriate referrals.
-3. NICE Clinical guideline updated July 2017: Headache in children and young people: diagnosis and management (CG99) - for additional information.
+3. [NICE Clinical guideline: Headache in children and young people: diagnosis and management](https://www.nice.org.uk/guidance/cg150)
+
 
 # Acknowledgents
 Birmingham Children's Hospital Chronic Headache guidance
