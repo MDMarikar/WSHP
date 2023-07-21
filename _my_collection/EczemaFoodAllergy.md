@@ -38,3 +38,5 @@ Avoid IgE or skin prick testing for children with eczema without IgE symptoms to
 
 - [BSACI Early Feeding Guidelines](https://www.bsaci.org/professional-resources/resources/early-feeding-guidelines/)
 - [Chang et al - Natural History of Food-Triggered Atopic Dermatitis and Development of Immediate Reactions in Children](https://pubmed.ncbi.nlm.nih.gov/26597013/)
+
+Acknowledgements to Dr Fiona for adaptation of existing guidance
