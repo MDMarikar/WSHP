@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-# Key Messages**
+# Key Messages
 
 - Most eczema is not allergy-driven, and food exclusion carries potential risks such as nutrient deficiencies and increased allergy development.
 - IgE-mediated food allergies are characterized by a rash (usually hives) appearing within an hour of eating a specific food and usually clearing completely with antihistamine use.
