@@ -30,7 +30,7 @@ Avoid IgE or skin prick testing for children with eczema without IgE symptoms to
 - If symptoms indicate an IgE-mediated food allergy, refer with details to an allergy clinic.
 - If the child is excluding significant foods like milk or wheat, refer to a dietetic service.
 
-# Potential Risks of Food Exclusion**
+# Potential Risks of Food Exclusion
 
 - Potential nutrient deficiencies and increased allergy development are key concerns. Balancing food exclusion with these potential risks should be discussed. The importance of food reintroduction is paramount in managing food-triggered eczema flare-ups.
 
