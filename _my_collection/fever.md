@@ -1,6 +1,6 @@
 ---
 title: Fever
-layout: default
+layout: simple
 ---
 
 ## fever
