@@ -1,3 +1,8 @@
+---
+title: Feeding difficulties and ARFID (Avoidant/Restrictive Food Intake Disorder)
+layout: default
+---
+
 #  Key Messages
 
 - ARFID is a recognized diagnosis based on ICD11 and DSM5, with specific criteria. It describes a broad range of children, focusing on those who are nutritionally compromised.
