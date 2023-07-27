@@ -1,6 +1,6 @@
 ---
 title: Eczema and Food Allergy Concerns
-layout: default
+layout: simple
 ---
 
 
