@@ -27,3 +27,5 @@ layout: default
 - Consider referral to dieticians if there's significant weight loss or a markedly poor diet.
 - If mental health issues like anxiety are present, consider referral to psychological services.
 - there are current challenges in accessing specialist ARFID services
+
+## Acknowledgements to guidance from Dr Cousins and Dr Mathur
