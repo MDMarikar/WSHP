@@ -4,7 +4,6 @@ layout: simple
 author: Dr Lakshman
 ---
 
-# Urinary Tract Infection
 Febrile infants below 3 months should always be discussed with paediatricians.
 
 Early diagnosis and treatment of UTI is especially important in febrile children below 2 years as delayed treatment can scar the kidney.
