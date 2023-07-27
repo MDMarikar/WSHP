@@ -1,6 +1,6 @@
 ---
 title: Head Shape in Infants and Craniosynostosis
-layout: default
+layout: simple
 ---
 
 # Concerns about head shapes in infant
