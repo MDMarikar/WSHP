@@ -1,6 +1,6 @@
 ---
 title: Blood in stool - infants
-layout: default
+layout: simple
 ---
 
 
