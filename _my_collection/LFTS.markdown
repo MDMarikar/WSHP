@@ -1,6 +1,6 @@
 ---
 title: Liver Function tests
-layout: default
+layout: simple
 ---
 
 # ALT
