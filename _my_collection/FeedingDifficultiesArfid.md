@@ -28,4 +28,4 @@ layout: default
 - If mental health issues like anxiety are present, consider referral to psychological services.
 - there are current challenges in accessing specialist ARFID services
 
-## Acknowledgements to guidance from Dr Cousins and Dr Mathur
+**Acknowledgements** summary of guidance from Dr Cousins and Dr Mathur
