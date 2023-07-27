@@ -1,6 +1,6 @@
 ---
 title: Cough, Wheeze under 5 years of age 
-layout: default
+layout: simple
 ---
 Under 5 years of age it is not straightforward to make a robust diagnosis of asthma.
 
