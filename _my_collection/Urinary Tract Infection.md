@@ -1,6 +1,6 @@
 ---
 title: Urinary Tract Infection
-layout: default
+layout: simple
 author: Dr Lakshman
 ---
 
