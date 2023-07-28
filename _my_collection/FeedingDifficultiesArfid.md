@@ -1,6 +1,6 @@
 ---
 title: Feeding difficulties and ARFID (Avoidant/Restrictive Food Intake Disorder)
-layout: simple
+layout: page
 ---
 
 # Key Messages
