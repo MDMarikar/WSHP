@@ -1,6 +1,6 @@
 ---
 title: Breast enlargement before puberty
-layout: simple
+layout: page
 ---
 
 # Summary
