@@ -1,6 +1,6 @@
 ---
 title: Functional Abdominal Pain
-layout: simple
+layout: page
 ---
 
 Recurrent and chronic abdominal pain persisting for more than a month is most likely to be functional abdominal pain.
