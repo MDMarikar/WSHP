@@ -1,6 +1,6 @@
 ---
 title: Fever
-layout: simple
+layout: page
 ---
 
 ## key message
