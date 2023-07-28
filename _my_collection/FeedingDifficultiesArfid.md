@@ -14,6 +14,7 @@ layout: page
 
 - **Investigation**: Monitor the child's weight and consider checking nutritional levels by evaluating FBC, vitamin D, and ferritin.
 - **Management**: 
+  - Many children don’t meet criteria for ARFID but still have some restrictive food intake:
   - For children with autism:
     - **preschool non verbal young children with learning disability:** Provide reassurance and support around food chaining and maintaining weight. 
     - **School-aged, cognitively able children**: They may have a limited but adequate diet. Provide reassurance and small suggestions for improvement. 
