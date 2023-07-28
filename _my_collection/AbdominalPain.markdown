@@ -1,6 +1,6 @@
 ---
 title: Abdominal Pain
-layout: simple
+layout: default
 ---
 
 Recurrent tummy pain in children is very uncommonly organic.  Worth doing FBC and coeluac antibody and if these are normal , then in an otherwise healthy child whonis thriving and has red flag symptoms is likely to be functional.
