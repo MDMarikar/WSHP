@@ -1,6 +1,6 @@
 ---
 title: Headaches
-layout: simple
+layout: page
 ---
 # Key Messages
 
