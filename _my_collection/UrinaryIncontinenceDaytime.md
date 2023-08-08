@@ -17,7 +17,7 @@ layout: page
 - Perform urine analysis 
 - renal tract ultrasound with post void residual* to look for structural causes.  
 
-*Anticholinergics may be contraindicated in children with high post void residual bladder volume
+*high post void residual bladder volume indicate incomplete bladder emptying, which may mean anticholinergics such as oxybutinin may be contraindicated 
 
 **Manage and Treat** by encouraging behavioural modification like increasing fluid intake, avoiding [bladder irritants](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children/#:~:text=Some%20drinks%20can%20irritate%20the,need%20to%20be%20diluted%20well.), and treating co-existing conditions like constipation and urinary tract infection
 
