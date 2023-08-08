@@ -13,7 +13,7 @@ layout: page
 
 **Investigate** taking a detailed history of urinary symptoms, any night time symptoms, voiding patterns, and history of constipation. Examine the child's growth, blood pressure, abdomen, lumbar spine, neurology, and genitalia. Perform urine analysis and renal tract ultrasound to look for structural causes
 
-**Manage and Treat** by encouraging behavioural modification like increasing fluid intake, avoiding bladder irritants, and treating co-existing conditions like constipation and urinary tract infection
+**Manage and Treat** by encouraging behavioural modification like increasing fluid intake, avoiding [bladder irritants](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children/#:~:text=Some%20drinks%20can%20irritate%20the,need%20to%20be%20diluted%20well.), and treating co-existing conditions like constipation and urinary tract infection
 
 **active bladder training**, which involves scheduled voiding (every 2-3 hours while awake), double voiding, avoiding holding maneuvers, and teaching the child to fully empty their bladder. This process aims to improve bladder control and decrease the frequency of incontinence.
 
@@ -30,6 +30,7 @@ Provide the parents with relevant information and support eg ERIC website (see b
 
 # Useful Resources 
 [ERIC: Children's Bladder and Bowel Charity](https://eric.org.uk)
+[CUH Patient Information Leaflet](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children)
 
 # Acknowledgements
 Checked by Dr Cesar and Dr Shute.
