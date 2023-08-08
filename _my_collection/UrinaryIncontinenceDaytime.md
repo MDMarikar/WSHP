@@ -11,7 +11,13 @@ layout: page
 
 # What to Do
 
-**Investigate** taking a detailed history of urinary symptoms, any night time symptoms, voiding patterns, and history of constipation. Examine the child's growth, blood pressure, abdomen, lumbar spine, neurology, and genitalia. Perform urine analysis and renal tract ultrasound to look for structural causes
+**Investigate** 
+- taking a detailed history of urinary symptoms, any night time symptoms, voiding patterns, and history of constipation. 
+- Examine the child's growth, blood pressure, abdomen, lumbar spine, neurology, and genitalia. 
+- Perform urine analysis 
+- renal tract ultrasound with post void residual* to look for structural causes.  
+
+*Anticholinergics may be contraindicated in children with high post void residual bladder volume
 
 **Manage and Treat** by encouraging behavioural modification like increasing fluid intake, avoiding [bladder irritants](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children/#:~:text=Some%20drinks%20can%20irritate%20the,need%20to%20be%20diluted%20well.), and treating co-existing conditions like constipation and urinary tract infection
 
