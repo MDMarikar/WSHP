@@ -29,8 +29,8 @@ Provide the parents with relevant information and support eg ERIC website (see b
 - Paediatric enuresis service will only take referrals for nighttime wetting
 
 # Useful Resources 
-[ERIC: Children's Bladder and Bowel Charity(https://eric.org.uk)
+[ERIC: Children's Bladder and Bowel Charity](https://eric.org.uk)
 
-# Acknowledgements and References
+# Acknowledgements
 Checked by Dr Cesar and Dr Shute.
-Birmingham Childrens Hospital Paediatric OutpatientGuidance
+Birmingham Childrens Hospital Paediatric Outpatient Guidance
