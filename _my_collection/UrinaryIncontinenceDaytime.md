@@ -21,7 +21,7 @@ layout: page
 
 **Manage and Treat** by encouraging behavioural modification like increasing fluid intake, avoiding [bladder irritants](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children/#:~:text=Some%20drinks%20can%20irritate%20the,need%20to%20be%20diluted%20well.), and treating co-existing conditions like constipation and urinary tract infection
 
-**active bladder training**, which involves scheduled voiding (every 2-3 hours while awake), double voiding, avoiding holding maneuvers, and teaching the child to fully empty their bladder. This process aims to improve bladder control and decrease the frequency of incontinence.
+**active bladder training**, which involves scheduled voiding (every 2-3 hours while awake), [double voiding](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children/#:~:text=double%20voiding), avoiding holding maneuvers, and teaching the child to fully empty their bladder. This process aims to improve bladder control and decrease the frequency of incontinence.
 
 Provide the parents with relevant information and support eg ERIC website (see below)
 
