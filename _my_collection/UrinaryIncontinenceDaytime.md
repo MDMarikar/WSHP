@@ -32,11 +32,12 @@ Provide the parents with relevant information and support eg ERIC website (see b
 - No improvement is seen after 3 months of active bladder training
 - Giggle incontinence symptoms are not improving with age
 - Underactive bladder symptoms are not improving after 3 months of aggressive treatment of constipation and voiding training
-- Paediatric enuresis service will only take referrals for nighttime wetting
+- Our local Paediatric enuresis service will only take referrals for nighttime wetting
 
 # Useful Resources 
 [ERIC: Children's Bladder and Bowel Charity](https://eric.org.uk)
-[CUH Patient Information Leaflet](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children)
+[CUH Patient Information Leaflet on Enuresis](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children)
+['Bedwetting' specific CUH Information Leaflet](https://www.cuh.nhs.uk/patient-information/nocturnal-enuresis-bedwetting-in-children/)
 
 # Acknowledgements
 Checked by Dr Cesar and Dr Shute.
