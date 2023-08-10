@@ -35,9 +35,9 @@ Provide the parents with relevant information and support eg ERIC website (see b
 - Our local Paediatric enuresis service will only take referrals for nighttime wetting
 
 # Useful Resources 
-[ERIC: Children's Bladder and Bowel Charity](https://eric.org.uk)
-[CUH Patient Information Leaflet on Enuresis](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children)
-['Bedwetting' specific CUH Information Leaflet](https://www.cuh.nhs.uk/patient-information/nocturnal-enuresis-bedwetting-in-children/)
+-[ERIC: Children's Bladder and Bowel Charity](https://eric.org.uk)
+-[CUH Patient Information Leaflet on Bladder and Voiding problems in children](https://www.cuh.nhs.uk/patient-information/bladder-and-voiding-problems-in-children)
+-['Bedwetting' specific CUH Information Leaflet](https://www.cuh.nhs.uk/patient-information/nocturnal-enuresis-bedwetting-in-children/)
 
 # Acknowledgements
 Checked by Dr Cesar and Dr Shute.
