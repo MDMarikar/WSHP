@@ -35,3 +35,5 @@ Lymphadenitis
 **References**
 
 Ruffle A, Beattie G, Prasai A*, et al*Fifteen-minute consultation: A structured approach to the child with palpable cervical lymph nodes*Archives of Disease in Childhood - Education and Practice* 2023;**108:**326-329.
+
+Thanks to Dr Piccinelli for review and contribution
