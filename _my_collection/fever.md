@@ -1,4 +1,4 @@
-.---
+---
 title: Febrile children and sepsis
 layout: page
 ---
