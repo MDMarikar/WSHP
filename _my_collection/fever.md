@@ -1,4 +1,4 @@
----
+.---
 title: Febrile children and sepsis
 layout: page
 ---
@@ -27,5 +27,7 @@ Always refer babies with recorded fever either by parents or healthcare professi
 Beware and have low threshold to refer multiple repeat presentations with parental concern 
 
 Expose appropriately every child for non blanching rash and review and document that a child is not meningitis
+
+Neonates are not to be trusted if you have any infection concerns have a low threshold for referral
 
 Always check for incomplete vaccination status and consider if the child is immunocompromised as they are in a higher risk category.  Children with Down’s syndrome have increased risk for infections
