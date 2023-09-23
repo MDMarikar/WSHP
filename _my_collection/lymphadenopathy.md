@@ -1,5 +1,5 @@
 ---
-title: Lymphadenopathy
+title: Lymphadenopathy - cervical lymph nodes
 layout: page
 ---
 Children with palpable cervical lymph nodes
