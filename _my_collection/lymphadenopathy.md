@@ -22,6 +22,7 @@ Children with palpable cervical lymph nodes
 - If a child has CLNs larger than 2 cm that persist for over 6 weeks, they should be referred to secondary care
 
 **Lymphadenopathy (any site)and suspected malignancy**
+
 - Below is 2021 guidance from Childrens Cancer and Leukaemia group
 ![]({{site.baseurl}}/images/IMG_0419.JPG)
 
