@@ -1,5 +1,5 @@
 ---
-title: chronic diarrhoea
+title: Diarrhoea (Chronic)
 layout: page
 ---
 **Chronic Diarrhoea in Children**
