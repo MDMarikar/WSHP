@@ -1,0 +1,4 @@
+---
+title: Cancer
+layout: page
+---
