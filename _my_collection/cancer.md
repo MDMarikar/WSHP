@@ -11,6 +11,7 @@ Cancer is an important but uncommon diagnosis in primary care.  The following is
 2) Brain tumour decision support tool:  
 
 [Decision Support Tool - Better safe than tumour (headsmart.org.uk)](https://www.headsmart.org.uk/clinical/decision-support-tool/)
+
 **Referral**
 For GPs making 2WW referrals:
 
