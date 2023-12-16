@@ -1,5 +1,5 @@
 ---
-title: "Fatty liver” on abdominal ultrasound
+title: Fatty liver on abdominal ultrasound
 layout: page
 ---
 
