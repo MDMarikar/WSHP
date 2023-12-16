@@ -1,6 +1,6 @@
 ---
-title:"Fatty liver” on abdominal ultrasound
-layout:page
+title: "Fatty liver” on abdominal ultrasound
+layout: page
 ---
 
 **Key Messages:**
