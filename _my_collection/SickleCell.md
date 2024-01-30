@@ -1,6 +1,6 @@
 ---
 title: Sickle Cell Disease
-layour: page
+layout: page
 ---
 
 Learning 
