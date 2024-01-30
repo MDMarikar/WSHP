@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Concerns about head shapes in infant
-Concerns around abnormal head are not uncommon.  The majority will have normal variants (such as positional plagiocephaly and benign metopic ridge) but it is important to assess for craniosynostosis by looking at the babies head from above and refer directly from primary care to a specialist centre early if concerned
+Concerns around abnormal head are not uncommon.  The majority will have normal variants (such as positional plagiocephaly and benign metopic ridge) but it is important to assess for craniosynostosis by looking at the babies head from above and refer early if concerned
  
 
 # Differentiating Craniosynostosis from Normal Variants 
@@ -29,7 +29,7 @@ History should include timing and progression of abnormal head shape, symptoms o
 Physical examination should assess head shape (front, above and side), head circumference, anterior fontanelle, any ridges or bulges, and associated dysmorphic features or anomalies.
 		
 # What to Do If Craniosynostosis is Suspected 
-If craniosynostosis is suspected and no acute concerns consider referring directly to a specialist  craniofacial unit - in our case Oxford Craniofacial Unit.  Details on referral advice and guidance contacts available here  [Oxford Craniofacial Team](https://www.ouh.nhs.uk/craniofacial/)
+Refer.  If craniosynostosis is strongly suspected and no acute concerns consider also sending details and pictures to our specialist  craniofacial unit - in our case Oxford Craniofacial Unit.  Details on referral advice and guidance contacts available here  [Oxford Craniofacial Team](https://www.ouh.nhs.uk/craniofacial/)
 
 
 
